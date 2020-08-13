@@ -3,3 +3,9 @@ package-lock.json
 .idea/
 core/Core.DotSettings.user
 dist/
+.vs
+core/Core/*
+electroncgi.log
+release-builds/electron-demo-win32-ia32/*
+!release-builds/electron-demo-win32-ia32/electron-demo.exe
+!release-builds/electron-demo-win32-ia32/core
